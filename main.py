@@ -15,6 +15,7 @@ elif curDay==4:
 elif curDay==5:
     dayOfWeek='Saturday'
 else:
+    print "No school on Sunday lol"
     quit()
 
 timetable = {
